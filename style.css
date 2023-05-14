@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+  background: linear-gradient(to bottom, #ff6ec4, #7873f5);
+}
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#orange {
+  background-color: orange;
+  color: white;
+  font-weight: bold;
+}
+
+#orange:hover {
+  background-color: #4596ed;
+  color: black;
+  font-weight: bold;
+}
+
+
+button {
+  padding: 20px;
+  width: 56px;
+  margin: 0px 3px;
+  border: 2px solid #707070;
+  border-radius: 39px;
+  font-weight: bold;
+  font-size: 15px;
+  color: white;
+  background: #181b25
+}
+
+button:hover {
+  box-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff;
+  border: 2px solid #0008ff;
+}
+
+.row {
+  margin: 1px 8px;
+}
+
+.row input {
+  font-size: 29.5px;
+  margin: 0px;
+  width: 185px;
+  padding: 0px 0px;
+  height: 51px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: #43f543;
+  font-family: 'Orbitron', sans-serif;
+  text-align: right;
+}

@@ -1,0 +1,38 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background: red;
+}
+
+.mx-auto {
+  margin: auto;
+}
+
+/* 
+.m-w-30 {
+  max-width: 30pw;
+} */
+
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.item-center {
+  align-items: center;
+}
+
+.calu {
+  background: #181b25;
+  margin: 10% 25% 0% 25%;
+  padding: 13px 0px 9px 0;
+  width: 276px;
+  border-radius: 15px;
+
+}
+
